@@ -4,28 +4,28 @@
  
 > 本周轮值主编: 翟旭 下周轮值主编: 车谦波
  
-* [191012]Hadoop IO操作之数据压缩[from 小瑞]   
+* [191012][Hadoop IO操作之数据压缩](https://github.com/wudirui/lw-technique-sharing/blob/master/docs/study_3.md)[from 小瑞]   
 * [191012]设计模式-状态模式[from 杨俊路]
-* [191012]JDK 1.8 之 Map.merge()[from 翟旭]   
-* [191012] 有哪些招惹麻烦的性能陷阱？ [from 曹伟伟]
+* [191012][JDK 1.8 之 Map.merge](https://www.cnblogs.com/vandusty/p/11644487.html)[from 翟旭]   
+* [191012] [有哪些招惹麻烦的性能陷阱？](https://time.geekbang.org/column/article/84096) [from 曹伟伟]
 
  
 ## 190923-190928
  
 > 本周轮值主编: 李广 下周轮值主编: 翟旭
 
-* [190826]亿级规模的 Feed 流系统，如何轻松设计？[from 李广]
-* [190925]Hadoop IO操作之数据完整性验证[from 小瑞]   
-* [190925] redis实现消息队列&分布/订阅模式使用[from 陈慧云]
-* blpop的实现原理[from陈慧云]
-* [190925]聊一聊-JAVA 泛型中的通配符 T，E，K，V[from 杜文刚]
+* [190826][亿级规模的 Feed 流系统，如何轻松设计？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247491126&idx=1&sn=8d3e622b861a64234fde608578de155e&chksm=e929233)[from 李广]
+* [190925][Hadoop IO操作之数据完整性验证](https://github.com/wudirui/lw-technique-sharing/blob/master/docs/study_3.md)[from 小瑞]   
+* [190925] [redis实现消息队列&分布/订阅模式使用](https://www.cnblogs.com/qlqwjy/p/9763754.html)[from 陈慧云]
+* [blpop的实现原理](https://blog.csdn.net/immershy/article/details/77150842)[from陈慧云]
+* [190925][聊一聊-JAVA 泛型中的通配符 T，E，K，V](https://juejin.im/post/5d5789d26fb9a06ad0056bd9#comment)[from 杜文刚]
 	  
 ## 190915-190921	  
 
 > 本周轮值主编: 曹伟伟 下周轮值主编: 李广
-* [190921] java 垃圾回收 [from 曹伟伟]
-* [190920]hdfs之java接口[from 小瑞]
-* [190920]hdfs之数据流[from 小瑞]
+* [190921] [java 垃圾回收](https://mp.weixin.qq.com/s/C8465IvIm-kMYpIT0YeRmg) [from 曹伟伟]
+* [190920][hdfs之java接口](https://github.com/wudirui/lw-technique-sharing/blob/master/docs/study_1.md)[from 小瑞]
+* [190920][hdfs之数据流](https://github.com/wudirui/lw-technique-sharing/blob/master/docs/study_2.md)[from 小瑞]
 * [190921][支撑百万并发的“零拷贝”技术，你了解吗](https://mp.weixin.qq.com/s/mZujKx1bKl1T6gEI1s400Q) [from 大瑞]
     * 介绍了在操作系统中，传统IO下，数据是怎么传输的，使用了一些新技术后，数据是怎么传输的
     * 分析NIO中对数据拷贝的实现，NETTY,RocketMQ和Kafka在数据拷贝上的区别
@@ -36,9 +36,9 @@
     * >  你不但很难找到它们，也很容易忘记某个重要的修改。把所有需要修改的代码放进同一个类中，如果眼下没有合适的类可以安置这些代码就创造一个。
     * 过多的注释
     * >  注释之所以存在是因为代码很糟糕 。注释的最高境界——代码即注释。当你感觉需要撰写注释时，请先尝试重构，试着让所有的注释都变得多余。我猜是这个原因造成程序员的代码注释都少
-* [190921] B树和B+树 [from 陈强]
-* [190921] IDEA插件 
-    * IntelliJ IDEA 18个常用插件，动图演示，让效率成为习惯！  [from李广]	
+* [190921] [B树和B+树](https://my.oschina.net/u/4116286/blog/3107389) [from 陈强]
+* [190921] [IDEA插件 ](https://www.cnblogs.com/jajian/p/8081658.html)
+    * [IntelliJ IDEA 18个常用插件，动图演示，让效率成为习惯！](https://www.jianshu.com/p/4e89d9b5e48a)  [from李广]	
 
 ## 190902-190907
 > 本周轮值主编: 陈强 下周轮值主编: 曹伟伟
@@ -51,66 +51,67 @@
 ## 190826-190831
 > 本周轮值主编: 杜文刚(南京) 下周轮值主编:  陈强(北京)
 
-* [ 190829 ]快速浏览、scylla数据库查询、页面图标获取、本体编辑学习分享[from 曹永红]
+* [ 190829 ][快速浏览、scylla数据库查询、页面图标获取、本体编辑学习分享](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27256137)[from 曹永红]
     * 文章旨在分享近阶段对于快速浏览、scylla数据库查询、页面图标获取、本体编辑的学习经验
-* [190831] Java8一些细节 [from 陈强]
-* [190831] 时间轮算法 [from 翟旭]
-* [190831]hdfs之java接口[from 小张瑞]
-* [190831]智子中用到的组件类[from 陈慧云]
-* [190837]spring boot集成swagger [from 曹伟伟]
+* [190831] [Java8一些细节](https://zhuanlan.zhihu.com/p/28160344) [from 陈强]
+* [190831] [时间轮算法](https://my.oschina.net/u/945573/blog/3099796) [from 翟旭]
+* [190831][hdfs之java接口](https://github.com/wudirui/lw-technique-sharing)[from 小张瑞]
+* [190831][智子中用到的组件类](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27256748)[from 陈慧云]
+* [190837][spring boot集成swagger](http://blog.didispace.com/springbootswagger2/) [from 曹伟伟]
 
 
 ## 190819-190824
 > 本周轮值主编: 小张瑞 下周轮值主编:  杜文刚(南京)
 
-* [ 180603 ]win10 安装 oh my zsh 和 window git bash 设置别名提高效率
+* [ 180603 ][win10 安装 oh my zsh 和 window git bash 设置别名提高效率](https://www.jianshu.com/p/97f33b7fac80)
     * 可以对git bash 进行命令别名封装，提高工作效率 [from 大张瑞]
-* [190824] 深入分析synchronized [from陈强]
-* [190824] 实际项目运用之Strategy模式（策略模式）[from 翟旭]
-* [190824] 10个非常有趣的Linux命令 [from 翟旭]
-* [190824] jmeter并发接口测试 [from 车谦波]
-* [190824] Arrays.asList应该怎么使用? [from 曹伟伟]
-* [190526]3种代理模式-理解Spring Aop[from 李广]
-* [20181122] Mysql Join的底层实现原理[from刘文健] 多表关联的执行顺序
+* [190824] [深入分析synchronized](https://zhuanlan.zhihu.com/p/34606653) [from陈强]
+* [190824] [实际项目运用之Strategy模式（策略模式）](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27254607)[from 翟旭]
+* [190824] [10个非常有趣的Linux命令](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247486293&idx=3&sn=9f88f72d79679096bb4dc8232c011b23&chksm=9bed2a2) [from 翟旭]
+* [190824] [jmeter并发接口测试](https://www.cnblogs.com/star91/p/5059222.html) [from 车谦波]
+* [190824] [Arrays.asList应该怎么使用?](https://mp.weixin.qq.com/s/7ILvz9UreVco0sq9s-zJNg) [from 曹伟伟]
+* [190526][3种代理模式-理解Spring Aop](https://juejin.im/post/5cea0180e51d4550bf1ae7db)[from 李广]
+* [20181122] [Mysql Join的底层实现原理](https://www.jianshu.com/p/16ad9669d8a9)[from刘文健] [多表关联的执行顺序](https://blog.csdn.net/qq_27529917/article/details/87904179)
 
 
 
 ## 190812-190817
 > 本周轮值主编: 路璐 下周轮值主编: 小张瑞
 
-* [190816] 大型网站架构演化发展历程 [from 小张瑞]
-* [190817]Java中的字符串最大长度[from翟旭]
-* [190817]ArrayList 为啥要实现 RandomAccess 接口[from翟旭]
-* [190917]geoJson标椎格式学习 [from陈强]
-* [190813]处理亿级数据的“定时任务”，如何缩短执行时间？[from杜文刚]
-* [190817]HDFS工作机制解析 [from陈慧云]
-* [190813]如何在10亿个整数中找出前1000个最大的数？[from大张瑞]
-* [190817]QPS[from 车谦波]
-* [190817]Maven插件获取Git信息[from 李广]  Spring Boot Actuator监控端点小结
-* [190817]最长公共前缀算法分析[from 刘文健]
+* [190816] [大型网站架构演化发展历程](https://blog.csdn.net/en_joker/article/details/99679786) [from 小张瑞]
+* [190817][Java中的字符串最大长度](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27252425)[from翟旭]
+* [190817][ArrayList 为啥要实现 RandomAccess 接口](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247490369&idx=3&sn=f236a9c09829ec13d4fdcc25fdfe23f4&chksm=eb539e7)[from翟旭]
+* [190917][geoJson标椎格式学习](https://www.jianshu.com/p/852d7ad081b3) [from陈强]
+* [190813][处理亿级数据的“定时任务”，如何缩短执行时间？](https://mp.weixin.qq.com/s/aN-M8YcwXNE462HaVrQ6ig)[from杜文刚]
+* [190817][HDFS工作机制解析](https://www.cnblogs.com/wxisme/p/6270860.html) [from陈慧云]
+* [190813][如何在10亿个整数中找出前1000个最大的数？](https://mp.weixin.qq.com/s/PmgCc29GU7THagvbg-MZKw)[from大张瑞]
+* [190817][QPS](http://wiki.lvwan-inc.com/display/~cheqianbo/QPS)[from 车谦波]
+* [190817][Maven插件获取Git信息](https://blog.csdn.net/i_love_t/article/details/82261372)[from 李广]  
+[Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
+* [190817][最长公共前缀算法分析](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27252699)[from 刘文健]
 
 
 
 ## 190805-190810
 > 本周轮值主编: 曹永红 下周轮值主编: 璐路
 
-* [180424] 工具类BeanCopier介绍[from 陈强]
-* [160512]  最佳日志实践[from陈慧云]
-* [121102] 设计模式六大原则[from小张瑞]
+* [180424] [工具类BeanCopier介绍](https://www.e-learn.cn/content/qita/1733178)[from 陈强]
+* [160512]  [最佳日志实践](https://blog.csdn.net/vcould163/article/details/51382348)[from陈慧云]
+* [121102] [设计模式六大原则](http://www.uml.org.cn/sjms/201211023.asp)[from小张瑞]
     * 关于设计模式六大原则
-* [190910] UML软件工程组织  [from小张瑞]
+* [190910] [UML软件工程组织](http://www.uml.org.cn/index.asp)  [from小张瑞]
     * 这个网站学习的东西挺多 推荐给大家一起学习进步
-* [190809] Data Structure Visualizations [from大瑞]
+* [190809] [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) [from大瑞]
     * 算法可视化库
     * 可以自己写算法
     * 有个B+树可以看一看
-* 高并发架构系列：Kafka、RocketMQ、RabbitMQ的优劣势比较[from翟旭]
-* 跨域问题：跨域【from 车谦波】
-* 布隆过滤器  [from 曹伟伟]
-* java的bitSet [from 曹伟伟]
-* 数据库垂直拆分和水平拆分原则[from刘文健]
-* dubbo介绍[from李广]
-* [190725]华为将开源 GaussDB 数据库 [from 曹永红]
+* [高并发架构系列：Kafka、RocketMQ、RabbitMQ的优劣势比较](https://youzhixueyuan.com/comparison-of-kafka-rocketmq-rabbitmq.html)[from翟旭]
+* [跨域问题：跨域](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27250303)【from 车谦波】
+* [布隆过滤器](https://www.jianshu.com/p/2104d11ee0a2)  [from 曹伟伟]
+* [java的bitSet](https://www.jianshu.com/p/4fbad3a6d253) [from 曹伟伟]
+* [数据库垂直拆分和水平拆分原则](https://youzhixueyuan.com/six-principles-of-vertical-and-horizontal-resolution-of-database.html)[from刘文健]
+* [dubbo介绍](https://www.jianshu.com/p/4d822c4a7a52)[from李广]
+* [190725][华为将开源 GaussDB 数据库](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247490219&idx=1&sn=9b94571869e107b828a8bd2a3b62c38c&chksm=eb539f9) [from 曹永红]
     * GaussDB数据库是今年5月15日华为公布的分布式数据库
     * GaussDB数据库它是基于PostgreSQL9.2开发的，在性能、安全、可用性和可维护性上做了增加
     * 华为首次将人工智能技术融入分布式数据库的全生命周期
@@ -118,7 +119,7 @@
 ## 190729-190803
 > 本周轮值主编: 杨俊路 下周轮值主编: 曹永红
 
-* [180424] Redis为什么这么快？一文深入了解Redis内存模型！[from 大瑞]
+* [180424] [Redis为什么这么快？一文深入了解Redis内存模型！](https://mp.weixin.qq.com/s/m-RdJQdG-qW-BLquorhMlQ)[from 大瑞]
     * 1、内存碎片
     * 2、存储细节
     * 3、jemalloc分配内存策略
@@ -129,9 +130,9 @@
     * 8、内层哈希，数量小于512，长度小于64，用压缩列表，不然用哈希
     * 9、有序结合，有压缩列表和跳跃表(之前小瑞分享过)
     * 10、jemalloc特性优化，key长度最好少于8字节
-* [190801] GitHub高级搜索[from 陈强]
-* [190801] Greenplum介绍[from 翟旭]
-* [190731] 从“秒杀”业务我们可以学习到的技术和思想[from 路璐]
+* [190801] [GitHub高级搜索](https://www.cnblogs.com/chentop/p/11265592.html)[from 陈强]
+* [190801] [Greenplum介绍](https://blog.csdn.net/dcpkeke/article/details/79003170)[from 翟旭]
+* [190731] [从“秒杀”业务我们可以学习到的技术和思想](https://mp.weixin.qq.com/s/XEUrSNHwdFD51UrhWM3uyA)[from 路璐]
     * 关于秒杀我们肯定都很熟悉了，而且也有可能从各处看到过怎么样去处理秒杀业务的办法。
     * 这篇文章是我看到过最全的一篇关于秒杀业务相关领域的技术思想讲解。请大家参考。
         * 1、秒杀业务分析
@@ -141,15 +142,15 @@
         * 5、大并发带来的挑战
         * 6、作弊的手段：进攻与防守
         * 7、高并发下的数据安全
-* [170328] linux环境下安装nginx步骤 [from 曹永红]
+* [170328] [linux环境下安装nginx步骤](https://www.cnblogs.com/wyd168/p/6636529.html) [from 曹永红]
     * 1、nginx作为反向代理服务器，可以将多台服务器表现为一台服务器，只提供一个接口地址
     * 2、在nginx.conf文件引入我们自己的配置文件include /home/admin/conf/nginx/web.conf;
     * 3、使用location关键字配置多个服务地址
-* [190803] 借用oa账号密码进行假登录DEMO演示from 曹永红]
+* [190803] [借用oa账号密码进行假登录DEMO演示](http://172.17.10.85:8089/)[from 曹永红]
     * 1、借助于oa或wiki的登录接口验证oa用户是否合法用户
     * 2、验证成功跳转到新的页面
     * 3、配合nginx可表现为一个接口
-* [190803] mysql语句是如何执行的？from 曹伟伟
+* [190803] [mysql语句是如何执行的？](http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27249295)[from 曹伟伟]
     * 1. sql的查询语句，更新语句执行流程
     * 2.binlog 和 redo log
 * [190706](https://www.jianshu.com/p/a19aea6ead28) [from 李广]
@@ -166,7 +167,7 @@
     * 1、如何使用 ThreadPoolExecutor 创建线程和他的构造方法中重要的参数
     * 2、Executors 创建线程池
     * 3、ThreadPoolExecutor  中几个重要的方法
-* [20190803]深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）[from 陈慧云]
+* [20190803][深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://lucida.me/blog/java-8-lambdas-insideout-language-features/)[from 陈慧云]
 * [20190803][Feed流](https://yq.aliyun.com/articles/224132)[from 车谦波]
 
 
@@ -201,8 +202,8 @@
         * 基于 TF-IDF 算法的关键词抽取
         * 其他语音版本
 * [20190725] [对多线程进行学习](http://172.17.10.41:8018/yangjunlu/Concurrent/study-concurrent.html )[from 杨俊路]
-    * 主要介绍了 三种懒加载并且线程安全的单例模式  
-    * volatile 关键字的介绍，多线程的一些基础知识的回顾，验证volatile 关键字的几个小程序
+	* 主要介绍了 三种懒加载并且线程安全的单例模式  
+	* volatile 关键字的介绍，多线程的一些基础知识的回顾，验证volatile 关键字的几个小程序
 
 ## 190715-190720
 `本周轮值主编`: 张瑞(大) `下周轮值主编`: 唐剑飞
@@ -471,7 +472,7 @@
 > 资讯：
 
 * [190425][mysql 8.0.16新版介绍](https://www.cnbeta.com/articles/soft/848769.htm) [from 永红]  
-    mysql 8.0.16稳定版（GA）在4.25号发布，新版mysql增加以下新特性  
+	mysql 8.0.16稳定版（GA）在4.25号发布，新版mysql增加以下新特性  
 读书笔记：  
   对账号管理、字符集、临时表、explain关键字、mysql执行、MRG参数、编译工具要求都有改动  
   其中mysql执行优化介绍以下：  
@@ -504,23 +505,23 @@ BitKeeper和Linux合作关系结束，然后Linus开发了git
 谷歌的tensorflow教程（适合初学者，对机器学习有兴趣爱好的同学）  
 1、首先介绍了一下，可量化的数据可以用于训练模型，什么样的数据是可以量化的。  
 2、学习的章节（每个章节都提供了视频、文字讲解以及练习）：  
-    梯度算法，损失的概念，如何实现梯度算法与减低损失。  
-    如何使用TF，TF的层级，各个层级的用途。  
-    泛化，拟合。  
-    ....  
+	梯度算法，损失的概念，如何实现梯度算法与减低损失。  
+	如何使用TF，TF的层级，各个层级的用途。  
+	泛化，拟合。  
+	....  
 3、三个实际案例  
 
 * [180206] [详解JVM Garbage First(G1) 垃圾收集器 ](https://blog.csdn.net/coderlius/article/details/79272773) [from 俊路]  
 读书笔记：
 1、简单讲解了一下几种垃圾回收机制的组合串行、并行、并发标记清除收集器  
 2、详细讲解了G1的内存模型  
-    分区概念  
-    分代模型  
-    分区模型  
+	分区概念  
+	分代模型  
+	分区模型  
 3、G1的活动周期：  
-    G1垃圾收集活动汇总  
-    RSet的维护  
-    并发优化线程 等等  
+	G1垃圾收集活动汇总  
+	RSet的维护  
+	并发优化线程 等等  
 讲的比较详细，需要反复阅读  
 
 --------------------------------
@@ -538,5 +539,4 @@ BitKeeper和Linux合作关系结束，然后Linus开发了git
 
 * [ 190524 ] [用故事来给你讲负载均衡的原理](https://mp.weixin.qq.com/s/acBhXKFrDeN00qVueayk5Q) [ from 大瑞 ]
 * [ 190523 ] 滴滴杜欢：大型微服务框架设计实践 <https://mp.weixin.qq.com/s/vOYhlpRaN-uF0DIrZ-sM-w> 滴滴大型业务系统微服务架构实践，使用Go语言开发，实现要点：框架与业务正交；隔离层屏蔽业务与底层的联系；使用FSM劫持thrift protocol；跨服务边界的context；防雪崩等 [ from 大民 ]
-
 
