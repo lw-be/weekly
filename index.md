@@ -1,5 +1,13 @@
 # 技术周刊
 
+## 191021-191026
+ 
+> 本周轮值主编: 刘文健 下周轮值主编: 陈慧云
+ 
+* [191026][java中的资源释放](https://github.com/F-Monkey/java-release)[from 唐建飞]   
+* [191012][nginx的正向代理与反向代理](https://github.com/cyhcyhcyhcyh/cyhcyhcyhcyh.github.io/blob/master/nginx%E7%9A%84%E6%AD%A3%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%8E%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86.docx)[from 曹永红]
+* [191012][Nginx正向代理与反向代理](https://www.jianshu.com/p/ae76c223c6ef)[from 曹永红]   
+
 ## 191007-191012
  
 > 本周轮值主编: 翟旭 下周轮值主编: 车谦波
