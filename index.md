@@ -1,5 +1,8 @@
 # 技术周刊
 
+## 191118-191123
+> 本周轮值主编: 杨俊路 下周轮值主编: 永红
+
 ## 191111-191116
 * [191116][nginx+spring-boot+redis 分布式锁](https://github.com/wudirui/lw-technique-sharing/blob/master/docs/study_8.md)[from 小张瑞]   
 
