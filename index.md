@@ -4,6 +4,7 @@
 > 本周轮值主编: 翟旭 下周轮值主编: 陈慧云
 * [200103][Java 9 ← 2017，2019 → Java 13 ，来看看Java两年来的变化 ](<https://mp.weixin.qq.com/s/92T-F53Qhq05tR_MtI0zBA>)[from 刘勇刚]
 * [200103][使用 ThreadLocal ](<https://juejin.im/post/5e0d8765f265da5d332cde44#heading-0>)[from 翟旭]
+* [200103][BeanUtils.copyProperties(A,B)使用注意事项 ](<https://blog.csdn.net/qq_33623197/article/details/79731809>)[from 李广]
 
 
 ## 191223-191228
