@@ -1,7 +1,7 @@
 # 技术周刊
 
 ## 200106-200112
-> 本周轮值主编：陈慧云
+> 本周轮值主编：陈慧云 下周轮值主编：曹永红
 * [200110] [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html) [from 曹伟伟]
 
 
