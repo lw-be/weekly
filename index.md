@@ -1,5 +1,10 @@
 # 技术周刊
 
+## 200106-200112
+> 本周轮值主编：陈慧云
+* [200110] [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html) [from 曹伟伟]
+
+
 ## 191230-200105
 > 本周轮值主编: 翟旭 下周轮值主编: 陈慧云
 * [200103][Java 9 ← 2017，2019 → Java 13 ，来看看Java两年来的变化 ](<https://mp.weixin.qq.com/s/92T-F53Qhq05tR_MtI0zBA>)[from 刘勇刚]
