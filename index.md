@@ -2,7 +2,7 @@
 
 ## 200113-200118
 > 本周轮值主编：曹永红
-
+* [200117] [CopyOnWirteArrayList](http://www.luyixian.cn/news_show_218624.aspx) [from 曹伟伟]
 
 ## 200106-200112
 > 本周轮值主编：陈慧云 下周轮值主编：曹永红
