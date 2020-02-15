@@ -1,8 +1,19 @@
 # 技术周刊
 
+## 200210-200215
+> 本周轮值主编：杜文刚 下周轮值主编: 曹伟伟
+* [200215] [MySQL 的覆盖索引与回表](<https://segmentfault.com/a/1190000021718016>) [from 杜文刚]
+* [200215] [推荐10款超好用的 IDEA 插件，“效率”、“装X”两不误](<https://segmentfault.com/a/1190000021735431>) [from 杜文刚]
+* [200215] [ansible详解](<https://blog.csdn.net/weixin_42193400/article/details/82148974>) [from 陈慧云]
+* [200215] [如何设计一个安全的对外接口](<https://my.oschina.net/OutOfMemory/blog/3131916>) [from 翟旭]
+
+## 200203-200208
+> 本周轮值主编：曹永红 下周轮值主编: 杜文刚
+
 ## 200113-200118
 > 本周轮值主编：曹永红
-* [200117] [CopyOnWirteArrayList](http://www.luyixian.cn/news_show_218624.aspx) [from 曹伟伟]
+* [200117] [CopyOnWirteArrayList](<http://www.luyixian.cn/news_show_218624.aspx>) [from 曹伟伟]
+* [200117] [github优秀中文项目排行榜](<https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts>) [from 路璐]
 
 ## 200106-200112
 > 本周轮值主编：陈慧云 下周轮值主编：曹永红
