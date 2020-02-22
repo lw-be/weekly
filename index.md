@@ -3,7 +3,7 @@
 ## 200216-200223
 > 本周轮值主编：曹伟伟 下周轮值主编: 李广
 * [200221] [hadoop概览](https://www.cnblogs.com/binarylei/p/8903601.html) [from 曹伟伟]
-
+* [200222] [你真的完全了解Java动态代理吗？看这篇就够了](https://www.jianshu.com/p/95970b089360) [from 曹永红]
 ## 200210-200215
 > 本周轮值主编：杜文刚 下周轮值主编: 曹伟伟
 * [200215] [MySQL 的覆盖索引与回表](<https://segmentfault.com/a/1190000021718016>) [from 杜文刚]
