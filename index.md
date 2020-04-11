@@ -1,7 +1,7 @@
 # 技术周刊
 ## 200406-200412
 > 本周轮值主编：曹伟伟 下周轮值主编: 李广
-
+* [200411] [HTTP访问控制（CORS）](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS) [from 曹伟伟]
 ## 200302-200307
 > 本周轮值主编：翟旭 下周轮值主编: 慧云
 
