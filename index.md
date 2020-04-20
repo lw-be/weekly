@@ -1,4 +1,8 @@
 # 技术周刊
+## 200413-200419
+> 本周轮值主编：李广 下周轮值主编: 翟旭
+* [200411] [“附近的人” 实现方式](https://www.cnblogs.com/larscheng/p/12063409.html ) [from 李广]
+
 ## 200406-200412
 > 本周轮值主编：曹伟伟 下周轮值主编: 李广
 * [200411] [HTTP访问控制（CORS）](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS) [from 曹伟伟]
