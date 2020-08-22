@@ -1,4 +1,9 @@
 # 技术周刊
+## 200817-200822
+> 本周轮值主编：翟旭 下周轮值主编: 慧云
+* [200411] [SpringBoot配置中@ConfigurationProperties和@Value的区别 ](https://www.cnblogs.com/captainad/p/11271251.htmll ) [from 翟旭]
+
+# 技术周刊
 ## 200413-200419
 > 本周轮值主编：李广 下周轮值主编: 翟旭
 * [200411] [“附近的人” 实现方式](https://www.cnblogs.com/larscheng/p/12063409.html ) [from 李广]
